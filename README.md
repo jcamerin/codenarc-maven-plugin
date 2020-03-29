@@ -1,7 +1,7 @@
-# **Note:**  CodeHaus is being taken off-line so check back for any changes affecting this plugin.
-
 codenarc-maven-plugin
 =====================
+
+Forked from https://github.com/gleclaire/codenarc-maven-plugin
 
 Maven Mojo Plug-In to generate reports based on the CodeNarc Analyzer
 
