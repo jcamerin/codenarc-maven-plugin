@@ -78,7 +78,7 @@
     <projectVersion>${project.version}</projectVersion>
     <jxrPluginVersion>2.5</jxrPluginVersion>
     <codeNarcVersion>1.5</codeNarcVersion>
-    <groovyVersion>1.7.5</groovyVersion>
+    <groovyVersion>2.4.4</groovyVersion>
     <log4jVersion>1.2.17</log4jVersion>
     <integrationTestSrc>${project.build.directory}/it-src-codenarc/test</integrationTestSrc>
     <localTestSrc>${user.dir}/CodeNarc/CodeNarcTestCases/src</localTestSrc>
